@@ -1,7 +1,8 @@
-![Banner](https://kommodo.ai/i/RhGQvhIk6keHXyxO8rOa)
 # 💫 About Me:
-🌱 I’m currently learning DevOps and Cloud<br>💬 Ask me about Test Automation and Prompting
 
+-🌱 I’m currently learning **DevOps and Cloud**
+-💬 Ask me about **Test Automation and Prompting**
+-📫 How to reach me [Mail](thulasidharan.perumalvs@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thulasidharanvs/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thulasidharan.perumalvs@gmail.com) 
