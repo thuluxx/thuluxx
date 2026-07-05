@@ -1,7 +1,7 @@
 # 💫 About Me:
 
--🌱 I’m currently learning **DevOps and Cloud**
--💬 Ask me about **Test Automation and Prompting**
+-🌱 I’m currently learning **DevOps and Cloud**<br>
+-💬 Ask me about **Test Automation and Prompting**<br>
 -📫 How to reach me [Mail](thulasidharan.perumalvs@gmail.com)
 
 ## 🌐 Socials:
